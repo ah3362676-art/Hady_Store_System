@@ -22,3 +22,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/storage/
+/test-backup.sql
+/test-mariadb.sql
+/test-php.sql
